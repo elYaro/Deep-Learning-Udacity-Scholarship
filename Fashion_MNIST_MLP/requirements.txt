@@ -1,0 +1,14 @@
+opencv-python==3.4.4.19
+jupyter==1.0.0
+matplotlib==3.0.2
+numpy==1.15.4
+Pillow==5.3.0
+helper==2.4.2
+scikit-learn
+scikit-image
+seaborn
+h5py
+ipykernel==5.1.0
+ipython==7.2.0
+bokeh
+pickleshare
